@@ -21,7 +21,7 @@
     {
       "text": "walk the dog",
       "day": "May 11th at 10:00pm",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     }
   ]
